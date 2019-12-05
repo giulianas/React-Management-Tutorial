@@ -1,4 +1,5 @@
 ## Management System
+React Project를 위한 연습중 입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
